@@ -1,3 +1,3 @@
 git add .
-git commit -m "変更xxbnxmnggdssaabbbbdfdmx"
+git commit -m "変更xxbnxmnggdssaaeeebbbbdfdmx"
 git push
