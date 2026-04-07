@@ -1,3 +1,3 @@
 git add .
-git commit -m "nic1255nxn"
+git commit -m "nic1255znxn"
 git push
