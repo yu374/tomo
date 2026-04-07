@@ -1,3 +1,3 @@
 git add .
-git commit -m "good"
+git commit -m "nice"
 git push
