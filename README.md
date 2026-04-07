@@ -1,3 +1,3 @@
 git add .
-git commit -m "ndsicf"
+git commit -m "ndcf"
 git push
